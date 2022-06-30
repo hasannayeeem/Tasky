@@ -16,9 +16,9 @@ const Header = () => {
 
     const menuItems = <>
         <li><Link to='/home'>Home</Link></li>
-        <li><Link to='/portfolio'>Completed-Tasks</Link></li>
-        <li><Link to='/blogs'>To-Do</Link></li>
-        <li><Link to='/contact'>Calender</Link></li>
+        <li><Link to='/completedTasks'>Completed-Tasks</Link></li>
+        <li><Link to='/todos'>To-Do</Link></li>
+        <li><Link to='/calender'>Calender</Link></li>
     </>
     return (
         <div class="navbar bg-base-100">
