@@ -1,10 +1,10 @@
 # tasky-tool Simple Task Management Website
 
-Click here for seeing [This website](https://tasky-tool.web.app/).
+Click here for seeing [This website](https://taskywithreact.web.app/).
 
 ## Live link
 
-Click here: [https://tasky-tool.web.app/](https://tasky-tool.web.app/)
+Click here: [https://tasky-tool.web.app/](https://taskywithreact.web.app/)
 
 
 * `adding header`
